@@ -1,0 +1,126 @@
+四月 21, 2018 2:22:47 下午 org.apache.catalina.core.AprLifecycleListener init
+信息: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.8.0_131\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Intel\iCLS Client\;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Intel\iCLS Client\;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_131\bin;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Git\cmd;C:\Program Files\TortoiseGit\bin;C:\Program Files (x86)\Bitvise Tunnelier;C:\Program Files\OpenSSH\bin;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\MySQL\MySQL Server 5.5\bin;C:\Program Files\MySQL\MySQL Server 5.7\bin;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\nodejs\;C:\Program Files\Redis\;C:\Ruby25-x64\bin;E:\ruby\Ruby25-x64\bin;C:\Users\育  Danger\AppData\Local\Microsoft\WindowsApps;C:\Users\育  Danger\AppData\Local\atom\bin;C:\Users\育  Danger\AppData\Local\Microsoft\WindowsApps;E:\VS-code\Microsoft VS Code\bin;C:\Users\育  Danger\AppData\Roaming\npm;.
+四月 21, 2018 2:22:47 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-bio-8080"]
+四月 21, 2018 2:22:47 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-bio-8009"]
+四月 21, 2018 2:22:47 下午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 674 ms
+四月 21, 2018 2:22:47 下午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+四月 21, 2018 2:22:47 下午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/7.0.52
+四月 21, 2018 2:22:47 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory E:\WEB12_Http&Tomcat\WEB12_Http&Tomcat\WEB12_Http&Tomcat\资料\apache-tomcat-7.0.52\apache-tomcat-7.0.52\webapps\docs
+四月 21, 2018 2:22:48 下午 org.apache.catalina.util.SessionIdGenerator createSecureRandom
+信息: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [218] milliseconds.
+四月 21, 2018 2:22:48 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory E:\WEB12_Http&Tomcat\WEB12_Http&Tomcat\WEB12_Http&Tomcat\资料\apache-tomcat-7.0.52\apache-tomcat-7.0.52\webapps\examples
+四月 21, 2018 2:22:49 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory E:\WEB12_Http&Tomcat\WEB12_Http&Tomcat\WEB12_Http&Tomcat\资料\apache-tomcat-7.0.52\apache-tomcat-7.0.52\webapps\host-manager
+四月 21, 2018 2:22:49 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory E:\WEB12_Http&Tomcat\WEB12_Http&Tomcat\WEB12_Http&Tomcat\资料\apache-tomcat-7.0.52\apache-tomcat-7.0.52\webapps\manager
+四月 21, 2018 2:22:49 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory E:\WEB12_Http&Tomcat\WEB12_Http&Tomcat\WEB12_Http&Tomcat\资料\apache-tomcat-7.0.52\apache-tomcat-7.0.52\webapps\ROOT
+四月 21, 2018 2:22:49 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["http-bio-8080"]
+四月 21, 2018 2:22:49 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["ajp-bio-8009"]
+四月 21, 2018 2:22:49 下午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 1897 ms
+四月 21, 2018 2:37:28 下午 org.apache.catalina.core.AprLifecycleListener init
+信息: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.8.0_131\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Intel\iCLS Client\;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Intel\iCLS Client\;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_131\bin;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Git\cmd;C:\Program Files\TortoiseGit\bin;C:\Program Files (x86)\Bitvise Tunnelier;C:\Program Files\OpenSSH\bin;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\MySQL\MySQL Server 5.5\bin;C:\Program Files\MySQL\MySQL Server 5.7\bin;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\nodejs\;C:\Program Files\Redis\;C:\Ruby25-x64\bin;E:\ruby\Ruby25-x64\bin;C:\Users\育  Danger\AppData\Local\Microsoft\WindowsApps;C:\Users\育  Danger\AppData\Local\atom\bin;C:\Users\育  Danger\AppData\Local\Microsoft\WindowsApps;E:\VS-code\Microsoft VS Code\bin;C:\Users\育  Danger\AppData\Roaming\npm;.
+四月 21, 2018 2:37:29 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-bio-8080"]
+四月 21, 2018 2:37:29 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-bio-8009"]
+四月 21, 2018 2:37:29 下午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 545 ms
+四月 21, 2018 2:37:29 下午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+四月 21, 2018 2:37:29 下午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/7.0.52
+四月 21, 2018 2:37:29 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory E:\Java Pro\J2EE\apache-tomcat-7.0.52\apache-tomcat-7.0.52\webapps\docs
+四月 21, 2018 2:37:29 下午 org.apache.catalina.util.SessionIdGenerator createSecureRandom
+信息: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [176] milliseconds.
+四月 21, 2018 2:37:29 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory E:\Java Pro\J2EE\apache-tomcat-7.0.52\apache-tomcat-7.0.52\webapps\examples
+四月 21, 2018 2:37:30 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory E:\Java Pro\J2EE\apache-tomcat-7.0.52\apache-tomcat-7.0.52\webapps\host-manager
+四月 21, 2018 2:37:30 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory E:\Java Pro\J2EE\apache-tomcat-7.0.52\apache-tomcat-7.0.52\webapps\manager
+四月 21, 2018 2:37:30 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory E:\Java Pro\J2EE\apache-tomcat-7.0.52\apache-tomcat-7.0.52\webapps\MyProject
+四月 21, 2018 2:37:30 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory E:\Java Pro\J2EE\apache-tomcat-7.0.52\apache-tomcat-7.0.52\webapps\ROOT
+四月 21, 2018 2:37:30 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["http-bio-8080"]
+四月 21, 2018 2:37:30 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["ajp-bio-8009"]
+四月 21, 2018 2:37:30 下午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 1497 ms
+四月 21, 2018 2:54:19 下午 org.apache.catalina.core.AprLifecycleListener init
+信息: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.8.0_131\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Intel\iCLS Client\;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Intel\iCLS Client\;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_131\bin;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Git\cmd;C:\Program Files\TortoiseGit\bin;C:\Program Files (x86)\Bitvise Tunnelier;C:\Program Files\OpenSSH\bin;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\MySQL\MySQL Server 5.5\bin;C:\Program Files\MySQL\MySQL Server 5.7\bin;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\nodejs\;C:\Program Files\Redis\;C:\Ruby25-x64\bin;E:\ruby\Ruby25-x64\bin;C:\Users\育  Danger\AppData\Local\Microsoft\WindowsApps;C:\Users\育  Danger\AppData\Local\atom\bin;C:\Users\育  Danger\AppData\Local\Microsoft\WindowsApps;E:\VS-code\Microsoft VS Code\bin;C:\Users\育  Danger\AppData\Roaming\npm;.
+四月 21, 2018 2:54:19 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-bio-8088"]
+四月 21, 2018 2:54:19 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-bio-8009"]
+四月 21, 2018 2:54:19 下午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 562 ms
+四月 21, 2018 2:54:19 下午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+四月 21, 2018 2:54:19 下午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/7.0.52
+四月 21, 2018 2:54:19 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory E:\Java Pro\J2EE\apache-tomcat-7.0.52\apache-tomcat-7.0.52\webapps\docs
+四月 21, 2018 2:54:20 下午 org.apache.catalina.util.SessionIdGenerator createSecureRandom
+信息: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [161] milliseconds.
+四月 21, 2018 2:54:20 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory E:\Java Pro\J2EE\apache-tomcat-7.0.52\apache-tomcat-7.0.52\webapps\examples
+四月 21, 2018 2:54:20 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory E:\Java Pro\J2EE\apache-tomcat-7.0.52\apache-tomcat-7.0.52\webapps\host-manager
+四月 21, 2018 2:54:20 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory E:\Java Pro\J2EE\apache-tomcat-7.0.52\apache-tomcat-7.0.52\webapps\manager
+四月 21, 2018 2:54:20 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory E:\Java Pro\J2EE\apache-tomcat-7.0.52\apache-tomcat-7.0.52\webapps\MyProject
+四月 21, 2018 2:54:20 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory E:\Java Pro\J2EE\apache-tomcat-7.0.52\apache-tomcat-7.0.52\webapps\ROOT
+四月 21, 2018 2:54:20 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["http-bio-8088"]
+四月 21, 2018 2:54:20 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["ajp-bio-8009"]
+四月 21, 2018 2:54:20 下午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 1563 ms
+四月 21, 2018 3:35:02 下午 org.apache.catalina.core.AprLifecycleListener init
+信息: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.8.0_131\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Intel\iCLS Client\;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Intel\iCLS Client\;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_131\bin;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Git\cmd;C:\Program Files\TortoiseGit\bin;C:\Program Files (x86)\Bitvise Tunnelier;C:\Program Files\OpenSSH\bin;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\MySQL\MySQL Server 5.5\bin;C:\Program Files\MySQL\MySQL Server 5.7\bin;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\nodejs\;C:\Program Files\Redis\;C:\Ruby25-x64\bin;E:\ruby\Ruby25-x64\bin;C:\Users\育  Danger\AppData\Local\Microsoft\WindowsApps;C:\Users\育  Danger\AppData\Local\atom\bin;C:\Users\育  Danger\AppData\Local\Microsoft\WindowsApps;E:\VS-code\Microsoft VS Code\bin;C:\Users\育  Danger\AppData\Roaming\npm;.
+四月 21, 2018 3:35:02 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-bio-8080"]
+四月 21, 2018 3:35:02 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-bio-8009"]
+四月 21, 2018 3:35:02 下午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 618 ms
+四月 21, 2018 3:35:02 下午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+四月 21, 2018 3:35:02 下午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/7.0.52
+四月 21, 2018 3:35:02 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory E:\Java Pro\J2EE\apache-tomcat-7.0.52\apache-tomcat-7.0.52\webapps\docs
+四月 21, 2018 3:35:03 下午 org.apache.catalina.util.SessionIdGenerator createSecureRandom
+信息: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [204] milliseconds.
+四月 21, 2018 3:35:03 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory E:\Java Pro\J2EE\apache-tomcat-7.0.52\apache-tomcat-7.0.52\webapps\examples
+四月 21, 2018 3:35:04 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory E:\Java Pro\J2EE\apache-tomcat-7.0.52\apache-tomcat-7.0.52\webapps\host-manager
+四月 21, 2018 3:35:04 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory E:\Java Pro\J2EE\apache-tomcat-7.0.52\apache-tomcat-7.0.52\webapps\manager
+四月 21, 2018 3:35:04 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory E:\Java Pro\J2EE\apache-tomcat-7.0.52\apache-tomcat-7.0.52\webapps\MyProject
+四月 21, 2018 3:35:04 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory E:\Java Pro\J2EE\apache-tomcat-7.0.52\apache-tomcat-7.0.52\webapps\ROOT
+四月 21, 2018 3:35:04 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["http-bio-8080"]
+四月 21, 2018 3:35:04 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["ajp-bio-8009"]
+四月 21, 2018 3:35:04 下午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 2216 ms
