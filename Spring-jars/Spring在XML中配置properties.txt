@@ -1,0 +1,5 @@
+xmlns:context="http://www.springframework.org/schema/context"
+
+想要使用
+<context:property-placeholder ignore-unresolvable="true" location="classpath:db.properties"/>
+必须要额外添加namespace因为他自动添加中没有这条语句。。
